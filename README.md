@@ -16,3 +16,8 @@ See Examples in the test Class.
 ## Tests
 In GroupAdmin and ConcreteMember classes we added a few methods to have an easier time testing the classes, it is mentioned in the javadoc which methods those are.
 Also, for each function in each class we made a different test.
+
+## complexity
+In this project we used ArrayList data structure to contain the members list and states list.
+The reason we chose this Data Structure is because memory wise we saw that an ArrayList takes less memory than other data structures such as LinkedList and Hashmap
+also, the two main methods we use most is adding a member, and adding a state to list both done in constant time complexity. also, the update function in ConcreteMember is also constant.
