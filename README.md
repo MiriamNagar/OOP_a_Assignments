@@ -8,7 +8,7 @@ We used Java in the project.
 We used Stack, ArrayList, Test, Logger and LoggerFactory libraries.
 
 ## Launch
-To launch the program you nedd to create an object of GroupAdmin class and register Objects of ComcreteMember class into the GroupAdmin object, each time we change the state of the UdoableStringBUilder, CocreteMembers states list is updated.
+To launch the program you need to create an object of GroupAdmin class and register Objects of ComcreteMember class into the GroupAdmin object, each time we change the state of the UdoableStringBUilder, CocreteMembers states list is updated.
 
 ## Examples of use
 See Examples in the test Class.
